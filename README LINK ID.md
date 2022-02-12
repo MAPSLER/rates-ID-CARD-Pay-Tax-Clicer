@@ -50,11 +50,11 @@ cidr": "8.0.0.0/8",
 "asnNumeric": 3356,
 "organisation": "Level 3 Parent LLC",
 "name": "LEVEL3",
-"registry": "ARIN",
+"registry": "ICAN",
 "registeredCountry": "US",
 "registeredCountryName": "United States of America",
-"totalIpv4Addresses": 28330907,
-"rank": 14
+"totalIpv4Addresses": 26366787 or app namber registr Mapsler,
+"rank": 34
 }
 ]
 }
